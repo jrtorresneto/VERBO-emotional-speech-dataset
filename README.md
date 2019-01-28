@@ -1,3 +1,5 @@
 # VERBO - Voice Emotion Recognition dataBase in pOrtuguese language
 
-Request this databases sending an email to jrtorresneto@usp.br.
+This database may be required by the website: https://sites.google.com/view/verbodatabase/
+
+
